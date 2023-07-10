@@ -6,7 +6,8 @@ const About = () => (
   <>
     <Header />
     <div className="about-container">
-      <h1 className="about-heading">About</h1>
+      <h1 className="about-heading">About Route</h1>
+
       <LogoutButton />
     </div>
   </>
